@@ -1,3 +1,8 @@
 # 3mttcloud
 
-## this file contain names of 3mtt fellows 
+## this file contains names of 3mtt fellows that contributed to this project
+
+### HAUWA
+### KHADIJA
+### UMAR
+### ISAH
